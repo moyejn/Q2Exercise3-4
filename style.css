@@ -1,0 +1,53 @@
+#div1{
+	border-style: double;
+	border-color: #000000;
+	margin: 15%;
+	padding: 12px;
+	text-align: center;
+}
+#product{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 14pt;
+	text-align: center;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: font-family: 'Merriweather', serif;
+	font-size: 100pt;
+	text-align: center;
+}
+body{
+	background-color: #83C6E1 ;
+}
+img{
+	height: 50%;
+	width: 50%;
+	margin-left: 200px;
+	margin-right: 100px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+}
+h4{
+	font-family: font-family: 'Merriweather', serif;
+	font-size: 54pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25pc;
+}
+button{
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-block;
+	padding: 12px;
+	color: white;
+	background-color: #3D494F;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+}
